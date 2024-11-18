@@ -1,0 +1,11 @@
+.popup-parent{
+  position: relative;
+}
+
+.popup-container{
+  position: absolute;
+  top: 0;
+  width: 100%;
+  text-align: center;
+  background: #778098;
+}
